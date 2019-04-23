@@ -26,7 +26,7 @@ class Spacecraft {
       fullname: jsonData['fullname'],
       finalgrade: jsonData['finalgrade'],
 
-      // imageUrl: "http://192.168.1.5/PHP/spacecrafts/images/"+jsonData['image_url'],
+     
     );
   }
 }
